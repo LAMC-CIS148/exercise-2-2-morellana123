@@ -10,7 +10,7 @@ h1 {
 	margin: 0;
 	padding: .25em;
 	font-size: 200%;
-	color: rgb(255, 0, 0);
+	color: navy(255, 0, 0);
 }
 img  {
 	float: right;
